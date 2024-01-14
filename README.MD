@@ -4,8 +4,7 @@
 
 This is hello world introduction allowing me to learn how to set up IDE and version control
 
-the purpose of this soft ware is to help me get started with setting up my IDE
-
+The purpose of this software is to help me get started with setting up my IDE.
 
 [Software Demo Video](https://youtu.be/Uz0s8ryTa1U)
 
